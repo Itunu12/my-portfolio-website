@@ -34,29 +34,29 @@ const projects = [
         title: "E-Commerce Website",
         description:
             "Modern responsive e-commerce site with authentication, product management, and Supabase integration for backend data handling.",
-        image: "/modern-ecommerce-interface.png",
+        image: "/velora-wear-hero-banner.png",
         technologies: ["React", "Tailwind CSS", "Supabase", "JavaScript"],
-        liveUrl: "https://fluent-pay-landing-page.vercel.app",
+        liveUrl: "https://wear-velora-now.vercel.app/",
+        githubUrl: "https://github.com/Itunu12/wear-velora-now",
+    },
+    {
+        title: "Campus Fellowship Landing Page",
+        description:
+            "A visually engaging and responsive landing page for a campus fellowship, created with Next.js, Tailwind CSS, and Framer Motion. Designed to enhance user experience and promote easy access to fellowship information and events.",
+        image: "/mfmcf-hero-banner.png",
+        technologies: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
+        liveUrl: "https://mfmcf-oou-ibogun-landing-webpage.vercel.app/",
         githubUrl:
-            "https://github.com/Itunu12/fluent-pay-landing-page.vercel.app",
+            "https://github.com/Itunu12/MFMCF-OOU-IBOGUN-LANDING-WEBPAGE",
     },
     {
-        title: "Portfolio Dashboard",
+        title: "Student Resources Website",
         description:
-            "Interactive portfolio dashboard built with Next.js and TypeScript, featuring dynamic animations and clean data architecture.",
-        image: "/task-management-dashboard.png",
-        technologies: ["Next.js", "TypeScript", "Supabase", "Framer Motion"],
-        liveUrl: "#",
-        githubUrl: "#",
-    },
-    {
-        title: "Landing Page",
-        description:
-            "High-converting landing page built with React and Tailwind CSS, optimized for performance and accessibility.",
-        image: "/modern-portfolio-website.png",
+            "A student-focused web app for accessing and downloading academic materials. Built with React and Tailwind CSS, it offers seamless navigation and secure premium upgrades for enhanced learning convenience.",
+        image: "/student-web-banner.png",
         technologies: ["React", "Tailwind CSS", "JavaScript", "GSAP"],
-        liveUrl: "#",
-        githubUrl: "#",
+        liveUrl: "https://excellence-hub-web-app-m8wh.vercel.app/",
+        githubUrl: "https://github.com/Itunu12/ExcellenceHubWebApp",
     },
 ];
 
